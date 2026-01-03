@@ -1,6 +1,6 @@
 {
   "name": "go-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Claude Code plugin for Go development with gopls LSP integration, 14 automated hooks for linting (golangci-lint), formatting (gofmt), testing, and security scanning (govulncheck)",
   "author": {
     "name": "zircote",
